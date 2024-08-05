@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\bin\Debug\net8.0\MethodPractice-Array.exe
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\bin\Debug\net8.0\MethodPractice-Array.deps.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\bin\Debug\net8.0\MethodPractice-Array.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\bin\Debug\net8.0\MethodPractice-Array.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\bin\Debug\net8.0\MethodPractice-Array.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\obj\Debug\net8.0\MethodPractice-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\obj\Debug\net8.0\MethodPractice-Array.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\obj\Debug\net8.0\MethodPractice-Array.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\obj\Debug\net8.0\MethodPractice-Array.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\obj\Debug\net8.0\MethodPractice-Array.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\obj\Debug\net8.0\refint\MethodPractice-Array.dll
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\obj\Debug\net8.0\MethodPractice-Array.pdb
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\obj\Debug\net8.0\MethodPractice-Array.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\pb102_tasks\c#-tasks\MethodPractice-Array\MethodPractice-Array\obj\Debug\net8.0\ref\MethodPractice-Array.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\MethodPractice-Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F11A63FF-5E84-4B30-ADC6-D5635B6C76C2}|MethodPractice-Array\\MethodPractice-Array.csproj|c:\\users\\user\\onedrive\\desktop\\pb102_tasks\\c#-tasks\\methodpractice-array\\methodpractice-array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11A63FF-5E84-4B30-ADC6-D5635B6C76C2}|MethodPractice-Array\\MethodPractice-Array.csproj|solutionrelative:methodpractice-array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\MethodPractice-Array\\MethodPractice-Array\\Program.cs",
+              "RelativeDocumentMoniker": "MethodPractice-Array\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pb102_tasks\\c#-tasks\\MethodPractice-Array\\MethodPractice-Array\\Program.cs",
+              "RelativeToolTip": "MethodPractice-Array\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:20:01.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
